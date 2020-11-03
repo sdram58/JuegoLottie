@@ -60,7 +60,6 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 alto = contenedor.getHeight();
                 ancho = contenedor.getWidth();
-                jugar(MainActivity.this);
             }
         });
 
